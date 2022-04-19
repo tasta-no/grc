@@ -10,4 +10,4 @@ You'll see an Edit button up top, give it a tap, and you'll be in change request
 
 When you're ready, Submit the edits, then Merge them using the buttons on the bottom bar, and you'll see your changes reflected in the content!
 
-(This is the update.)
+.. This is and update.
