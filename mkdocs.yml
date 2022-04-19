@@ -1,5 +1,5 @@
 nav:
-    - Home: 'Readme.md'
+    - Home: 'README.md'
     - 'Information Security':
         - 'Change requests': '/information-security/change-requests.md'
         - 'Introduction': '/information-security/introduction.md'
