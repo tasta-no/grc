@@ -7,7 +7,7 @@ The Editor is full of all sorts of content blocks, like this hint:
 {% hint style="info" %}
 **Check me out!** I’m an editable 'hint' block, and I think I look pretty great 💅
 
-`See also`[speed-up-with-quick-find.md](../risk-management/speed-up-with-quick-find.md "mention")``
+See also [speed-up-with-quick-find.md](../risk-management/speed-up-with-quick-find.md "mention")
 {% endhint %}
 
 You can access the block list at any time by hitting `CMD + /` (`CTRL + /` on Windows) to bring up a filterable list of blocks. Or you can check out our documentation for a full list of blocks with examples.
