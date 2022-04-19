@@ -9,3 +9,5 @@ If you've ever used a Git-based workflow, this should feel pretty natural. If no
 You'll see an Edit button up top, give it a tap, and you'll be in change request mode! From here, you can make changes without worrying about messing up the main content branch.
 
 When you're ready, Submit the edits, then Merge them using the buttons on the bottom bar, and you'll see your changes reflected in the content!
+
+(This is the update.)
