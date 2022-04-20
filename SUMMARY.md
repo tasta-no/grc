@@ -4,7 +4,7 @@
 
 ## Information security
 
-* [ISO 27001 chapters](information-security/introduction.md)
+* [ISO 27001 chapters](information-security/iso-27001-chapters.md)
 * [Threats and mitigation](information-security/threats-and-mitigation.md)
 * [Security awareness](information-security/security-awareness.md)
 * [Threat actors, motivation, and techniques](information-security/threat-actors-motivation-and-techniques.md)
