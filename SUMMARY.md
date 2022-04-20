@@ -4,7 +4,7 @@
 
 ## Information security
 
-* [Introduction](information-security/introduction.md)
+* [ISO27000](information-security/introduction.md)
 * [Threats and mitigation](information-security/threats-and-mitigation.md)
 * [Security awareness](information-security/security-awareness.md)
 * [Threat actors, motivation, and techniques](information-security/threat-actors-motivation-and-techniques.md)
