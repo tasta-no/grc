@@ -6,6 +6,8 @@ repo_name: 'tasta-no/grc'
 repo_url: 'https://github.com/tasta-no/grc'
 theme:
   name: 'material'
+  features:
+    - navigation.tabs
 nav:
     - Home: 'Readme.md'
     - 'Management System':
