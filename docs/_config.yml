@@ -2,5 +2,7 @@ title: Testing github pages
 description: Screaming in the dark.
 #show_downloads: true
 google_analytics:
-remote_theme: poole/lanyon
+#remote_theme: poole/lanyon
+#plugins:
+#  - jekyll-paginate
 #theme: jekyll-theme-minimal
