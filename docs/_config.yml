@@ -1,6 +1,6 @@
-title: Minimal theme
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Testing github pages
+description: Screaming in the dark.
+#show_downloads: true
 google_analytics:
 remote_theme: just-the-docs/just-the-docs
 #theme: jekyll-theme-minimal
