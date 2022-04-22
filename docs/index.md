@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Home of my testing
 
 Find the right technology for publishing and maintaining our docs.
