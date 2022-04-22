@@ -8,10 +8,10 @@ theme:
   name: 'material'
   features:
     - navigation.tabs
-nav:
-    - Home: 'Readme.md'
-    - 'Management System':
-        - 'Security Requirements': 'itsm/security-requirements.md'
-    - 'Cyber security awareness':
-        - 'IT Security': 'awareness/it-security.md'
-        - 'Threat landscape': 'awareness/threat-landscape.md'
+#nav:
+#    - Home: 'Readme.md'
+#    - 'Management System':
+#        - 'Security Requirements': 'itsm/security-requirements.md'
+#    - 'Cyber security awareness':
+#        - 'IT Security': 'awareness/it-security.md'
+#        - 'Threat landscape': 'awareness/threat-landscape.md'
