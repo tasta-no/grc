@@ -8,5 +8,8 @@ theme:
   name: 'material'
 nav:
     - Home: 'Readme.md'
-    - 'ISMS':
+    - 'Management System':
         - 'Security Requirements': 'security-requirements.md'
+    - 'Cyber security awareness':
+        - 'IT Security': 'docs/awareness/it-security.md'
+        - 'Threat landscape': 'docs/awareness/threat-landscape.md'
