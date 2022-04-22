@@ -2,5 +2,5 @@ title: Testing github pages
 description: Screaming in the dark.
 #show_downloads: true
 google_analytics:
-remote_theme: just-the-docs/just-the-docs
+remote_theme: poole/lanyon
 #theme: jekyll-theme-minimal
