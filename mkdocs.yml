@@ -7,7 +7,7 @@ repo_url: 'https://github.com/tasta-no/grc'
 #theme:
 #  name: 'material'
 nav:
-    - Home: 'README.md'
+    - Home: 'Readme.md'
     - 'Information Security':
         - 'Change requests': '/information-security/change-requests.md'
         - 'Introduction': '/information-security/introduction.md'
